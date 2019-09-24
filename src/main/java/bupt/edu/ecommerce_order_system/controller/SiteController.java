@@ -1,8 +1,8 @@
-package com.cmb.ccc.ecommerce_order_system.controller;
+package bupt.edu.ecommerce_order_system.controller;
 
 import java.util.ArrayList;
 
-import com.cmb.ccc.ecommerce_order_system.model.Article;
+import bupt.edu.ecommerce_order_system.model.Article;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

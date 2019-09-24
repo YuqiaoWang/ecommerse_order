@@ -1,4 +1,4 @@
-package com.cmb.ccc.ecommerce_order_system.controller;
+package bupt.edu.ecommerce_order_system.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

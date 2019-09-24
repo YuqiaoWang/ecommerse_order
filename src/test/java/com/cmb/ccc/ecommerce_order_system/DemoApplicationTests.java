@@ -1,4 +1,4 @@
-package com.cmb.ccc.ecommerce_order_system;
+package bupt.edu.ecommerce_order_system;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
